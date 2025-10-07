@@ -1,4 +1,4 @@
-Beginner Friendly Java Projects
+## Beginner Friendly Java Projects
 
 This repository contains a collection of beginner-friendly Java projects designed to help learners practice core programming concepts and build problem-solving skills.
 
