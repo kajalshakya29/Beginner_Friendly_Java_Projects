@@ -22,6 +22,18 @@ A Java application to convert temperatures between Celsius, Fahrenheit, and Kelv
 
 Helps practice conditional statements and user input handling.
 
+My Employee Management System
+
+A Java-based web application built using JSP, Servlets, and MySQL for managing employee data.
+It allows administrators to:
+
+Add, update, view, and delete employee records
+
+Perform login and logout operations with session management
+
+Interact with a database for real-time employee data storage
+This project helps learners understand JDBC connectivity, MVC architecture, and CRUD operations in Java.
+
 ✨ Highlights
 
 Beginner-friendly projects.
